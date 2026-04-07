@@ -1,0 +1,101 @@
+Address 1: (1, 1, 1, 187, Read) Physical=10955, Latency=2
+Address 2: (0, 1, 1, 131, Read) Physical=131, Latency=2
+Address 3: (1, 1, 0, 245, Read) Physical=10757, Latency=2
+Address 4: (0, 0, 0, 74, Read) Physical=330, Latency=4
+Address 5: (0, 1, 0, 241, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=3
+Address 6: (0, 1, 0, 190, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=5
+Address 7: (2, 0, 1, 226, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=4
+Address 8: (2, 0, 1, 143, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=4
+Address 9: (1, 0, 1, 147, Write) Physical=10659, Latency=1
+Address 10: (1, 0, 0, 27, Read) Physical=10795, Latency=1
+Address 11: (1, 1, 0, 14, Write) Physical=10014, Latency=1
+Address 12: (1, 0, 0, 113, Write) Failed: Protection Violation: Cannot write to read-only page, Latency=5
+Address 13: (1, 0, 1, 14, Read) Physical=10526, Latency=3
+Address 14: (2, 0, 0, 79, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=3
+Address 15: (2, 1, 0, 155, Read) Physical=20411, Latency=4
+Address 16: (0, 1, 1, 206, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=2
+Address 17: (0, 1, 0, 169, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=5
+Address 18: (0, 1, 0, 148, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=3
+Address 19: (1, 0, 1, 119, Write) Physical=10631, Latency=5
+Address 20: (0, 1, 0, 123, Read) Physical=635, Latency=1
+Address 21: (1, 0, 1, 169, Write) Physical=10937, Latency=2
+Address 22: (0, 0, 0, 28, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=2
+Address 23: (2, 1, 1, 221, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=3
+Address 24: (0, 0, 0, 23, Read) Physical=23, Latency=1
+Address 25: (2, 0, 0, 79, Read) Physical=20335, Latency=5
+Address 26: (0, 1, 1, 1, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=4
+Address 27: (0, 1, 1, 45, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=4
+Address 28: (1, 1, 0, 90, Read) Physical=10602, Latency=4
+Address 29: (2, 1, 1, 14, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=2
+Address 30: (0, 0, 1, 138, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=1
+Address 31: (1, 1, 1, 1, Read) Physical=10769, Latency=1
+Address 32: (2, 0, 0, 49, Read) Physical=20305, Latency=4
+Address 33: (2, 1, 1, 178, Read) Physical=20178, Latency=4
+Address 34: (2, 0, 1, 149, Read) Physical=20405, Latency=4
+Address 35: (1, 1, 1, 222, Read) Physical=10990, Latency=2
+Address 36: (2, 1, 1, 238, Read) Physical=20238, Latency=1
+Address 37: (1, 0, 0, 252, Read) Physical=10764, Latency=1
+Address 38: (0, 0, 1, 143, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=2
+Address 39: (1, 0, 1, 221, Read) Physical=10989, Latency=5
+Address 40: (1, 0, 1, 93, Write) Physical=10861, Latency=3
+Address 41: (1, 0, 1, 114, Read) Physical=10882, Latency=2
+Address 42: (2, 1, 0, 115, Read) Physical=20115, Latency=2
+Address 43: (1, 1, 0, 146, Write) Physical=10402, Latency=4
+Address 44: (1, 1, 1, 81, Write) Physical=10593, Latency=1
+Address 45: (1, 1, 1, 90, Write) Physical=10602, Latency=5
+Address 46: (2, 1, 1, 146, Read) Physical=20914, Latency=2
+Address 47: (1, 1, 1, 87, Write) Physical=10599, Latency=2
+Address 48: (2, 1, 0, 19, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=1
+Address 49: (1, 0, 0, 89, Read) Physical=10089, Latency=5
+Address 50: (2, 1, 0, 4, Read) Physical=20260, Latency=1
+Address 51: (2, 0, 1, 31, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=3
+Address 52: (2, 0, 1, 155, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=3
+Address 53: (1, 1, 1, 177, Read) Physical=10689, Latency=2
+Address 54: (0, 0, 0, 83, Read) Physical=595, Latency=5
+Address 55: (1, 0, 0, 216, Write) Failed: Protection Violation: Cannot write to read-only page, Latency=3
+Address 56: (1, 0, 1, 65, Write) Physical=10833, Latency=1
+Address 57: (2, 0, 0, 143, Read) Physical=20143, Latency=1
+Address 58: (1, 0, 1, 109, Read) Physical=10877, Latency=4
+Address 59: (0, 0, 1, 29, Read) Physical=285, Latency=1
+Address 60: (0, 0, 0, 213, Read) Physical=725, Latency=2
+Address 61: (0, 0, 1, 218, Read) Physical=474, Latency=4
+Address 62: (2, 0, 0, 147, Read) Physical=20147, Latency=4
+Address 63: (2, 0, 0, 82, Read) Physical=20082, Latency=5
+Address 64: (2, 1, 1, 191, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=3
+Address 65: (0, 0, 0, 99, Read) Physical=611, Latency=2
+Address 66: (2, 1, 0, 178, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=3
+Address 67: (2, 1, 1, 28, Read) Physical=20540, Latency=5
+Address 68: (2, 1, 0, 162, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=4
+Address 69: (0, 0, 1, 122, Read) Physical=378, Latency=4
+Address 70: (0, 1, 0, 112, Read) Physical=880, Latency=4
+Address 71: (0, 1, 0, 106, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=4
+Address 72: (0, 1, 0, 190, Read) Physical=958, Latency=2
+Address 73: (2, 0, 0, 179, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=3
+Address 74: (0, 1, 1, 226, Read) Physical=226, Latency=2
+Address 75: (1, 1, 1, 211, Write) Physical=10467, Latency=2
+Address 76: (2, 0, 0, 146, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=2
+Address 77: (2, 1, 0, 15, Read) Physical=20527, Latency=4
+Address 78: (0, 1, 0, 238, Read) Physical=1006, Latency=3
+Address 79: (1, 1, 1, 103, Read) Physical=10359, Latency=4
+Address 80: (2, 0, 1, 60, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=5
+Address 81: (1, 0, 0, 157, Read) Physical=10925, Latency=1
+Address 82: (0, 0, 1, 164, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=1
+Address 83: (0, 0, 0, 91, Read) Physical=91, Latency=2
+Address 84: (0, 0, 1, 169, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=4
+Address 85: (1, 1, 0, 37, Write) Physical=10293, Latency=2
+Address 86: (1, 1, 1, 205, Read) Physical=10717, Latency=1
+Address 87: (0, 0, 0, 68, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=2
+Address 88: (0, 1, 0, 128, Read) Physical=896, Latency=2
+Address 89: (2, 1, 0, 254, Read) Physical=20254, Latency=4
+Address 90: (2, 0, 0, 129, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=2
+Address 91: (1, 0, 1, 202, Write) Physical=10458, Latency=1
+Address 92: (0, 0, 1, 113, Read) Physical=625, Latency=5
+Address 93: (0, 1, 1, 179, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=5
+Address 94: (2, 0, 1, 188, Read) Physical=20956, Latency=5
+Address 95: (2, 0, 0, 154, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=2
+Address 96: (1, 0, 0, 168, Write) Failed: Protection Violation: Cannot write to read-only page, Latency=4
+Address 97: (1, 0, 0, 118, Write) Failed: Protection Violation: Cannot write to read-only page, Latency=5
+Address 98: (0, 0, 0, 192, Read) Physical=192, Latency=3
+Address 99: (0, 1, 1, 117, Write) Failed: Protection Violation: Cannot write to read-only segment, Latency=4
+Address 100: (1, 0, 0, 242, Read) Physical=10498, Latency=3
+Summary: Success=64, Faults=36, Fault Rate=36.00%
